@@ -1,2 +1,1 @@
-My first readme
-# alu-zero_day
+Welcome to my repository
